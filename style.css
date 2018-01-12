@@ -650,6 +650,30 @@ input:-webkit-autofill:focus {
     background-color: #476bb8;
 }
 
+.social-list a i.fa-telegram {
+    background-color: #0088cc;
+}
+
+.social-list a i.fa-telegram:hover {
+    background-color: #2796ea;
+}
+
+.social-list a i.fa-slack {
+    background-color: #e9a820;
+}
+
+.social-list a i.fa-slack:hover {
+    background-color: #6ecadc;
+}
+
+.social-list a i.fa-youtube {
+    background-color: #ff0000;
+}
+
+.social-list a i.fa-youtube:hover {
+    background-color: #282828;
+}
+
 .social-list a i.fa-twitter {
     background-color: #0084b4;
 }
