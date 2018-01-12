@@ -28,7 +28,7 @@
 
     =========================================================================*/
 
-    var countDownDate = new Date("2018-02-01 00:00:00").getTime();
+    var countDownDate = new Date("02/01/2018 00:00:00"); // "mm/dd/yyyy hh:mm:ss"
 
     // Update the count down every 1 second
 
@@ -72,7 +72,7 @@
 
             clearInterval(x);
 
-            document.getElementById("timer").innerHTML = "EXPIRED";
+            document.getElementById("timer").innerHTML = "Pre-ICO is live.";
 
         }
 
