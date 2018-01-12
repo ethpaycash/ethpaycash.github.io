@@ -28,7 +28,7 @@
 
     =========================================================================*/
 
-    var countDownDate = new Date("Feb 1, 2018 00:00:00").getTime();
+    var countDownDate = new Date("2018-02-01 00:00:00").getTime();
 
     // Update the count down every 1 second
 
